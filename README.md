@@ -7,6 +7,6 @@ IT student focused on backend and systems.
 Interested in low-level systems.
 Learning by understanding how things really work.
 
-## Fun fact
-Not the best yet, but I know who I am.
-I enjoy cultivation fantasy movies about defying fate.
+**Fun fact**
+- Not the best yet, but I know who I am.
+- I enjoy cultivation fantasy movies about defying fate.
